@@ -4,5 +4,6 @@ target
 .settings
 *.class
 .metadata
+.recommenders
 RemoteSystemsTempFiles
 
